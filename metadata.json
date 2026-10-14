@@ -1,0 +1,8 @@
+{
+  "name": "Simplifica Estudos - SaaS Landing Page",
+  "description": "Landing page SaaS no estilo Notion para clube de assinatura de e-books e estudos inteligentes, construída com Next.js, Tailwind CSS e Shadcn/UI.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
